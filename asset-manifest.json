@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.d9817fbe.js",
+    "static/media/Sudhan.png": "/portfolio/static/media/Sudhan.e56fea2eb73b031f75d0.png",
+    "static/media/SFC_Umesh.jpg": "/portfolio/static/media/SFC_Umesh.ba156f1b779f4f516f5f.jpg",
+    "static/media/delcapital.png": "/portfolio/static/media/delcapital.736997f27b038702dea0.png",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.8dd228845b70e9557917.jpg",
+    "static/media/leetcode.svg": "/portfolio/static/media/leetcode.a8a1b6197b0b86f53294d8a31a25febf.svg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.d9817fbe.js.map": "/portfolio/static/js/main.d9817fbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.d9817fbe.js"
+  ]
+}
